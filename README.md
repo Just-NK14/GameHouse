@@ -5,7 +5,7 @@ OOPs Project - Game Hub
 
 # Game House
 
-Welcome to the Game House, a collection of classic board games implemented in C++. This project includes three exciting games: Chess, Tic-Tac-Toe, and Snake-and-Ladders.
+Welcome to the Game House, a collection of classic board games implemented in C++. This project includes three exciting games: Chess, Tic-Tac-Toe, Snake-and-Ladders and Sudoku.
 
 ## 1. Chess
 - **File:** `Chess.cpp` and `ChessPieces.cpp`
