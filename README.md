@@ -11,10 +11,10 @@ Welcome to the Game House, a collection of classic board games implemented in C+
 - **File:** `Chess.cpp` and `ChessPieces.cpp`
 - The Chess game offers a classic two-player experience with standard chess rules.
 - Play as white or black and use various pieces strategically to checkmate your opponent.
-- Supports common chess moves, including castling and pawn promotion.
+- Supports common chess moves.
 
 ## 2. Tic-Tac-Toe
-- **File:** `tictactoe.cpp`
+- **File:** `XOplay.cpp`
 - Tic-Tac-Toe is a timeless two-player game where players take turns marking a 3x3 grid.
 - Aim to align three symbols horizontally, vertically, or diagonally to win the game.
 - Features options for replaying, rewinding, and starting a new game.
